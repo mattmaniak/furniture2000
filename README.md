@@ -1,4 +1,4 @@
-# Furniture2000
+# <img src='icon.png' width='32'> Furniture2000
 Fill interiors of Your classic 2000-like 3D game.
 
 ## Key info
